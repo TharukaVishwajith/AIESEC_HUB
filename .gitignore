@@ -1,0 +1,29 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+AIESEC_Hub_BackEnd/ETrain/.apt_generated
+AIESEC_Hub_BackEnd/ETrain/.classpath
+AIESEC_Hub_BackEnd/ETrain/.factorypath
+AIESEC_Hub_BackEnd/ETrain/.project
+AIESEC_Hub_BackEnd/ETrain/.settings
+AIESEC_Hub_BackEnd/ETrain/.springBeans
+
+### IntelliJ IDEA ###
+AIESEC_Hub_BackEnd/ETrain/.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+AIESEC_Hub_BackEnd/ETrain/nbproject/private/
+AIESEC_Hub_BackEnd/ETrain/build/
+AIESEC_Hub_BackEnd/ETrain/nbbuild/
+AIESEC_Hub_BackEnd/ETrain/dist/
+AIESEC_Hub_BackEnd/ETrain/nbdist/
+AIESEC_Hub_BackEnd/ETrain/.nb-gradle/
+
+
+### Front End ###
+AIESEC_Hub_FrontEnd/node_modules
+AIESEC_Hub_FrontEnd/.idea
